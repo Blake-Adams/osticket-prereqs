@@ -32,25 +32,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1323" height="584" alt="image" src="https://github.com/user-attachments/assets/e359e6c0-134d-4a07-9396-7939e625cb52" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We'll start by creating a new virtual machine in Azure under our resource group we created for our os-Ticket vm. We'll then start by naming our virtual machine os-Ticket-vm and then begin to choose our specifications for the machine. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1356" height="590" alt="image" src="https://github.com/user-attachments/assets/9e5226bf-9670-4656-b8d4-c85021cb96d0" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We'll choose Windows 10 Pro for our Operating System. We will then choose 4 vCPUs for the size of the machine that we will need for the project.
 </p>
 <br />
+<img width="305" height="168" alt="image" src="https://github.com/user-attachments/assets/0daad6f6-2705-45fd-b051-f9ecbf342d85" />
+
+
+</p>
+<p>
+We have successfully logged into our os-Ticket vm in Active Directory. We went back out to the main screen of our Active Directory and see it is currently on and running. 
