@@ -85,6 +85,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+
 - We will then upload” folder into “c:\inetpub\wwwroot. Within “c:\inetpub\wwwroot”, we will rename “upload” to “osTicket”
 </p>
 <br />
