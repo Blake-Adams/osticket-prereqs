@@ -76,17 +76,31 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-- We are going to open the Internet Information Systems (IIS) Program by running it as an administrator. 
-- We will then register PHP Manager by running it and clicking "Register new PHP version."
-- We will then stop and start the web server. 
+- We are going to open the Internet Information Systems (IIS) Program by running it as an administrator.
 </p>
 <br />
+
 <img width="923" height="516" alt="image" src="https://github.com/user-attachments/assets/06481be9-ba29-4005-9842-b2c882404f38" />
+</p>
+<br />
+
+- We will then register PHP Manager by running it and clicking "Register new PHP version." (PHP Manager -> C:\PHP\php-cgi.exe)
+
+<img width="1296" height="716" alt="image" src="https://github.com/user-attachments/assets/473dd99b-2141-4c8f-8112-c174ce3771e5" />
+<img width="889" height="667" alt="image" src="https://github.com/user-attachments/assets/07051cf0-faa4-4ca2-bc92-3e8f3134f5ff" />
+
+
+- We will then stop and start the web server back in IIS. (We will wait about 5-10 seconds after stopping the server to start it again.)
+-
+- </p>
+<br />
+<img width="890" height="661" alt="image" src="https://github.com/user-attachments/assets/6244aaed-a564-4326-be78-f84b15074412" />
+
 
 </p>
 <br />
 
-- We will then upload” folder into “c:\inetpub\wwwroot. Within “c:\inetpub\wwwroot”, we will rename “upload” to “osTicket”
+- We will upload” folder into “c:\inetpub\wwwroot. Within “c:\inetpub\wwwroot”, we will rename “upload” to “osTicket”
 </p>
 <br />
 <img width="1185" height="671" alt="image" src="https://github.com/user-attachments/assets/02dd83bf-2f64-4c38-99e3-0b54996561a5" />
