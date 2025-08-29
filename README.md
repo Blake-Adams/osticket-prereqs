@@ -142,13 +142,17 @@ Assign Permissions: ost-config.php
 - We can log in using our admin credentials and access osTicket for the first time.
 </p>
 <br />
-<img width="1283" height="655" alt="image" src="https://github.com/user-attachments/assets/ac22aaa6-aea3-4583-990b-21d6d8304577" />
+  
 
 </p>
 <br />
 
+- Here is the dashboard of the fully installed osTicket system. It shows the activity of tickets entering the system and how they're diverted, worked, or ignored. From here, you will be able to check on the average SLA time and see if we're maintaining the proper SLA for the client or need to improve. 
+
 </p>
 <br />
+
+<img width="1361" height="764" alt="image" src="https://github.com/user-attachments/assets/2967bd97-1424-45ab-b154-69a1a52e32a7" />
 
 </p>
 <br />
