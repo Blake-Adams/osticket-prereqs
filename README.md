@@ -88,8 +88,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1296" height="716" alt="image" src="https://github.com/user-attachments/assets/473dd99b-2141-4c8f-8112-c174ce3771e5" />
 <img width="888" height="657" alt="image" src="https://github.com/user-attachments/assets/2c71fcd2-7ea4-4ea8-9600-3790271b9f2a" />
-
-
+</p>
+<br />
 
 - We will then stop and start the web server back in IIS. (We will wait about 5-10 seconds after stopping the server to start it again.)
 
