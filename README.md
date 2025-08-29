@@ -87,12 +87,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - We will then register PHP Manager by running it and clicking "Register new PHP version." (PHP Manager -> C:\PHP\php-cgi.exe)
 
 <img width="1296" height="716" alt="image" src="https://github.com/user-attachments/assets/473dd99b-2141-4c8f-8112-c174ce3771e5" />
-<img width="889" height="667" alt="image" src="https://github.com/user-attachments/assets/07051cf0-faa4-4ca2-bc92-3e8f3134f5ff" />
+<img width="888" height="657" alt="image" src="https://github.com/user-attachments/assets/2c71fcd2-7ea4-4ea8-9600-3790271b9f2a" />
+
 
 
 - We will then stop and start the web server back in IIS. (We will wait about 5-10 seconds after stopping the server to start it again.)
--
-- </p>
+
+</p>
 <br />
 <img width="890" height="661" alt="image" src="https://github.com/user-attachments/assets/6244aaed-a564-4326-be78-f84b15074412" />
 
